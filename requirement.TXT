@@ -1,0 +1,6 @@
+http://tylerjuliano.com/genter/
+also don't use any in-line css style and use default W3School layout for html/css
+use only HTML/CSS/Bootstrap/Jquery
+time line:1 week
+
+refer:https://github.com/josephofiowa/example-bootstrap
