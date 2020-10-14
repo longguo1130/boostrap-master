@@ -490,7 +490,9 @@ input:focus{
 }
 .section-1 {
   background-color: lightgray;
+  background-image: url('../img/pattern-1.png');
   padding: 120px 0;
+  background-position: bottom;
 }
 .right-col-5 {
   padding: 0;
@@ -520,6 +522,7 @@ input:focus{
 }
 .section-2 {
   padding: 60px 0;
+  background-image: url("../img/pattern-2.jpg");
 }
 .top-col-12 {
   position: relative;
@@ -630,8 +633,8 @@ input:focus{
   margin: 20px;
 }
 .section-4 {
-  background-color: white;
   padding: 60px 0;
+  background-image: url("../img/pattern-2.jpg");
 }
 .section-4 .section-title::before {
   left: 50%;
@@ -774,6 +777,9 @@ input:focus{
   width: 50px;
   background-color: white;
 }
+.section-7{
+  background-image: none;
+}
 .section-7 .we-do-des {
   text-align: left;
 }
@@ -818,9 +824,8 @@ input:focus{
 .my-footer .info {
   color: white;
 }
-.my-footer h5,
-h6 {
-  color: white;
+.my-footer h5,h6 {
+  /* color: white; */
 }
 .my-footer h5 {
   margin-bottom: 25px;
